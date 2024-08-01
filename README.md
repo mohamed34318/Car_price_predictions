@@ -4,6 +4,8 @@
 ## Problem Statement
 The objective of this project is to develop a predictive model to estimate car prices based on various features.
 
+<img src="dataset-cover.jpeg" >
+
 ## Dataset
 The dataset contains various attributes related to cars, including:
 - Year of manufacture
